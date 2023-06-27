@@ -60,5 +60,5 @@ Full Stack Developer
 </div>
 
 ### :chart: Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com/?user=kumaran-IV0IV)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=kumaran-IV0IV&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com/?user=kumaran-IV0IV)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kumaran-IV0IV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
