@@ -7,9 +7,8 @@
   <a href="https://www.linkedin.com/in/kumaran-m-758a441b9">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.reddit.com/user/spa44ow">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Youtube Badge"/>
-  </a>
+ 
+   
   <a href="https://twitter.com/sierraThe117">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
