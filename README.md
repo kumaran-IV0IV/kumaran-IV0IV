@@ -1,4 +1,25 @@
+<div id="header align="center">
+  <h1>
+  Hi 
+  <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="30px"/>
+</h1>
+ <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif"/>
+</div>
+
+
+---
+
+### :robot: About Me :
+Full Stack Developer 
+- :telescope: I’m working as a Full stack devloper  and contributing for building web applications.
+  
+- :zap: In my free time, I work on open source projects
+
+- :mailbox_closed:	Reach me on:
+
 <div id="header" align="center">
+
+
   
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
  
@@ -23,23 +44,11 @@
  </div>
    <img src="https://komarev.com/ghpvc/?username=kumaran-IV0IV&style=flat-square&color=blue" alt=""/>
 
-<h1>
-  Hi 
-  <img src="https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width="30px"/>
-</h1>
- <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif"/>
+
    
 </div>
 
----
-
-### :robot: About Me :
-Full Stack Developer 
-- :telescope: I’m working as a Full stack devloper  and contributing for building web applications.
   
-- :zap: In my free time, I work on open source projects
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumaran-m-758a441b9)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
